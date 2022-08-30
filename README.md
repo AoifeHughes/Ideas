@@ -1,6 +1,15 @@
 # Ideas
 Personal list for ideas of things which may be useful to do in future
 
+## Lecture series
+- The evils of data
+There are lots of hidden examples of data which has been used for "evil" purposes 
+or else just misused. It could be a fun idea to take part in a series of lectures where
+these are discussed 
+  - Some examples:
+    - [https://en.wikipedia.org/wiki/Cyril_Burt](https://en.wikipedia.org/wiki/Cyril_Burt)
+    - Iris Dataset [https://armchairecology.blog/iris-dataset/](https://armchairecology.blog/iris-dataset/)
+  
 
 ## Misc
 

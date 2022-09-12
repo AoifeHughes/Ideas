@@ -11,6 +11,11 @@ these are discussed
     - Iris Dataset [https://armchairecology.blog/iris-dataset/](https://armchairecology.blog/iris-dataset/)
   
 
+## Courses 
+- How to use literate programming for scientists 
+  - Aimed at non-coders, or rather those without formal training in software eng
+- Course on how to write a CV and cover letter for a data science role! 
+
 ## Misc
 
 - A talk/tutorial/written guide on "How to organise a thesis with GitHub"
